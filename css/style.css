@@ -98,29 +98,52 @@ section{
     margin: 5% 0% 0% 0%;
 }
 .item4{
-    background-color: #ff0000;
-    width: 200px;
+    width: 170px;
     height: 200px;
 }
 .image48{
     margin: 5% 0% 5% 25%;
 }
 .item5{
-    background-color: #792b2b;
-    width: 200px;
+    width: 170px;
+    border-radius: 20px;
+    box-shadow: 0px 100px 30px 0px  rgb(241, 240, 240);
 }
 .image51{
-    
+    margin: 5% 0% 5% 25%;
+    width: 90px;
+    height: 75px;
 }
 .item6{
-    background-color: #e2d1d1;
+    width: 170px;
 }
 .image50{
-    
+    margin: 5% 0% 5% 30%;
 }
 .item7{
-    background-color: #746161;
+    width: 170px;
 }
 .image49{
-    
+    margin: 5% 0% 5% 30%;
+}
+.text1{
+    text-align: center;
+}
+.item8{
+    text-align: center;
+    font-family: 'Kanit', sans-serif;
+    color: rgb(116, 111, 111);
+}
+.item9{
+    text-align: center;
+    margin: 10% 0% 0% 0%;
+    font-family: 'Kanit', sans-serif;
+    color: rgb(116, 111, 111);
+}
+.trois{
+    text-align: center;
+}
+.box3{
+    display: flex;
+    justify-content: space-around 1px;
 }
