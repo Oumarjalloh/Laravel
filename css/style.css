@@ -142,8 +142,65 @@ section{
 }
 .trois{
     text-align: center;
+    margin: 0% 0% 5% 0%;
 }
 .box3{
     display: flex;
-    justify-content: space-around 1px;
+    justify-content: center;
+
+}
+.item10{
+    margin: 0% -5% 0% 0%;
+}
+.item11{
+    margin: 0% -5% 0% 0%;
+}
+.item12{
+    margin: 0% 0.5% 0% 0%;
+}
+.img10{
+    width: 400px;
+    height: 400px;
+}
+.img11{
+    width: 400px;
+    height: 400px;
+}
+.img12{
+    width: 400px;
+    height: 400px;
+}
+.it10{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.rome{
+    margin: -20% 0% 0% 10%;
+}
+.rome2{
+    margin: -20% 12% 0% 0%;
+}
+.rome3{
+    margin: -10% 36% 0% 0%;
+}
+.box4{
+    flex: 10%;
+    margin: 0% 0% 0% 15%;
+}
+.p1{
+    font-family: 'Kanit', sans-serif;
+    color: rgb(116, 111, 111);
+    margin: 25% 0% 0% 0%;
+}
+.text2{
+    margin: 10% 0% 0% 0%;
+    font-size: 40px;
+}
+.box5{
+    flex: 50%;
+}
+.img5{
+    height: 500px;
+    margin: 1% 0% 0% 15%;
 }
